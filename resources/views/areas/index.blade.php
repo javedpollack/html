@@ -29,6 +29,7 @@
                         <div class="col-sm-6"><a href=" {{ route('areas.create')}}">Add Area</a></div>
                         
                         </div>  
+                        <h1>Test</h1>
                         @foreach ($areas as $area)
                         <div class="card-body">
                         <div class="row col-sm-8" style="float:left;">
