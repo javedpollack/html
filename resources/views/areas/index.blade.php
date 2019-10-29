@@ -27,7 +27,7 @@
                     <div class="card">
                         <div class="card-header">
                         <div class="col-sm-6"><a href=" {{ route('areas.create')}}">Add Area</a></div>
-                        <h1>Javed</h1>
+                        
                         </div>  
                         @foreach ($areas as $area)
                         <div class="card-body">
