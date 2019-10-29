@@ -30,6 +30,7 @@
                         
                         </div>  
                         <h1>Test</h1>
+                        <h2>Alpha</h2>
                         @foreach ($areas as $area)
                         <div class="card-body">
                         <div class="row col-sm-8" style="float:left;">
